@@ -1,4 +1,5 @@
-<p align="left">
+<h1 align="center"> おかりな's GitHub </h1>
+<p align="center">
   <a href="https://github.com/okarina-chaan">
     <img height="20" src="https://komarev.com/ghpvc/?username=okarina-chaan" />
   </a>
@@ -13,11 +14,39 @@
   </a>
 </p>
 
+<details>
+<summary>It's me</summary>
 
-## Stats
+  2025.05.22〜 RUNTEQにてプログラミング学習中です。
+
+  最近ハマっているもの:筋トレ, 文房具, Helix editor
+
+</details>
+
+<details>
+  <summary>My PF</summary>
+    
+  [月めぐるノート](https://tsukimeguru-note.com/dashboard)：月相と一緒に日々を記録するWEBアプリ  
+  [リポジトリはこちら](https://github.com/okarina-chaan/tsukimeguru_note)
+  
+</details>
+
+<details>
+  
+<summary>MY Stars</summary>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarina-chaan&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarina-chaan&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okarina-chaan&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okarina-chaan&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okarina-chaan&theme=blue_green&utcOffset=9)
 
+</details>
+
+<details>
+  <summary>Learning...</summary>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,ruby,rails,docker,neovim,vscode,notion,obsidian)](https://skillicons.dev)
+
+  
+</details>
