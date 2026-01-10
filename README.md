@@ -31,15 +31,14 @@
   
 </details>
 
-<details>
+<details> 
+  <summary>MY Stars</summary>
   
-<summary>MY Stars</summary>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarina-chaan&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarina-chaan&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okarina-chaan&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okarina-chaan&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okarina-chaan&theme=blue_green&utcOffset=9)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarina-chaan&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarina-chaan&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okarina-chaan&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okarina-chaan&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okarina-chaan&theme=blue_green&utcOffset=9)
 
 </details>
 
