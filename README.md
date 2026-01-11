@@ -27,18 +27,16 @@
   <summary>My PF</summary>
     
   [月めぐるノート](https://tsukimeguru-note.com/dashboard)：月相と一緒に日々を記録するWEBアプリ  
-  [リポジトリはこちら](https://github.com/okarina-chaan/tsukimeguru_note)
+  <a href="https://github.com/okarina-chaan/convoychat">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=okarina-chaan&repo=tsukimeguru_note" />
+  </a>
   
 </details>
 
 <details> 
   <summary>MY Stars</summary>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarina-chaan&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarina-chaan&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okarina-chaan&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okarina-chaan&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okarina-chaan&theme=blue_green&utcOffset=9)
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=okarina-chaan)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </details>
 
